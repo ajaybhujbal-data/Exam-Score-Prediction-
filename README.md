@@ -65,27 +65,10 @@ Exam-Score-Prediction/
 
 ---
 
-## 💻 Run the Project
 
-### Clone the Repository
 
-```bash
-git clone https://github.com/ajaybhujbal-data/Exam-Score-Prediction.git
-```
 
-### Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Streamlit App
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## 📈 Machine Learning Workflow
 
@@ -119,15 +102,14 @@ streamlit run app.py
 
 **Ajay Bhujbal**
 
-📧 Email: *your-email@example.com*
+📧 Email: *ajaybhujbal981@gmail.com*
 
 🔗 GitHub: https://github.com/ajaybhujbal-data
 
-🔗 LinkedIn: *Add your LinkedIn profile*
+🔗 LinkedIn: *https://www.linkedin.com/in/ajaybhujbal8530*
 
 ---
 
 ⭐ **If you found this project useful, please give it a Star on GitHub!**
 =======
 # Exam-Score-Prediction-
->>>>>>> 324245b55a2397da7139b3ae5705fc42fc05b5ad
