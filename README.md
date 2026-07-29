@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Exam Score Prediction using Machine Learning
 
 An end-to-end Machine Learning project that predicts a student's exam score based on study habits, attendance, sleep quality, study method, and other academic factors using the **XGBoost Regressor**. The project also includes an interactive **Streamlit web application** for real-time predictions.
@@ -127,3 +128,6 @@ streamlit run app.py
 ---
 
 ⭐ **If you found this project useful, please give it a Star on GitHub!**
+=======
+# Exam-Score-Prediction-
+>>>>>>> 324245b55a2397da7139b3ae5705fc42fc05b5ad
